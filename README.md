@@ -11,9 +11,15 @@
 * [tendermint doc](https://tendermint.com/docs/)
 
 ### cosmos:
+
 * [whitepaper](https://cosmos.network/resources/whitepaper)
 * [github](https://github.com/cosmos/cosmos)
 
+### substrate:
+
+- [substrate](https://github.com/paritytech/substrate)
+- [substrate-设计总览1](https://zhuanlan.zhihu.com/p/56383616)
+- [substrate-设计总览2](https://zhuanlan.zhihu.com/p/56414647)
 
 ### polkadot:
 
