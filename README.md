@@ -1,11 +1,12 @@
 # awesome-CrossChain
 ### Paper 
-* [WhitePaper](/Paper/WhitePaper)
+* [WhitePaper](/Paper/Whitepaper.md)
 ### Theory
-* [Consensus]()
-* [Article]()
+* [Consensus](/Theory/Consensus.md)
+* [Articles](/Theory/Articles.md)
 ### Project
-* [Tutorial-doc]()
-* [Architecture]()
+* [Tutorial](/Project/Tutorial.md)
+* [Architecture](/Project/Architecture.md)
+* [Articles](/Project/Articles.md)
 
 
