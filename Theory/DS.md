@@ -4,6 +4,8 @@
 - [Distributed System](#distributed-system)
     - [研究目标](#研究目标)
     - [分布式系统CAP特性](#分布式系统cap特性)
+    - [Paxos](#paxos)
+    - [Raft](#raft)
     - [参考文章](#参考文章)
 
 <!-- /TOC -->
@@ -38,7 +40,13 @@ CAP理论核心思想是基于任何网络的数据共享系统最多只能满�
   不要求数据一致性，强调分布式系统的使用效率，忽略数据不一致性。为了高可用性，节点之间的数据可能会失去同步机制，很多使用本地数据提供服务的分布式系统属于此类。  
   **应用场景**：网页缓存、DNS
 
+## Paxos 
+[Paxos图示](https://www.jdon.com/artichect/paxos.html)
 
+
+## Raft
+[Raft图示](https://www.jdon.com/artichect/raft.html)  
+[Raft讲解](https://www.cnblogs.com/hzmark/p/raft.html)  
 
 ## 参考文章
 
