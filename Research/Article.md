@@ -5,5 +5,6 @@ https://medium.com/paritytech/what-is-substrate-29af4231d7e0
 https://medium.com/polkadot-network/a-tale-of-two-technologies-presentation-transcript-e7397c1c7a49    
 https://medium.com/polkadot-network/grandpa-block-finality-in-polkadot-an-introduction-part-1-d08a24a021b5  
 http://wiki.polkadot.network/en/latest/polkadot/learn/relevant_links/  
-http://research.web3.foundation/en/latest/polkadot/
+http://research.web3.foundation/en/latest/polkadot/  
+https://medium.com/coinmonks/polkadot-hello-world-1-cost-effective-cloud-deployment-of-a-validator-node-d3c1bbdb9200
 ## to translate  
